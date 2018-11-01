@@ -45,7 +45,7 @@ def test_type(li): #li 为嵌套的列表
     '''
 
     :param li:
-    :return: 返回列表，列表内容比如：['基本功能测试用例\nV1.2版本新合入应用云取证测试用例\n小米云\n']
+    :return: 返回列表，
     '''
     str1 = ""
     for each in li:
